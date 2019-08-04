@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background-color: gray;
+	color: #fff;
+}
+
+#container {
+	background-color: #000;
+	opacity: 0.8;
+	border: 3px solid #fff;
+	border-radius: 20px;
+	padding: 10px 10px 50px 10px;
+	margin-bottom: 30px;
+}
+
+
+#randBtn {
+	border-radius: 20px;
+	background-color: #000;
+	color: #fff;
+	border: 2px solid #fff;
+	padding: 5px 10px 5px 10px;
+}
+
+#clearBtn {
+	border-radius: 20px;
+	background-color: #000;
+	color: #fff;
+	border: 2px solid #fff;
+	padding: 5px 10px 5px 10px;
+	
+
+}
+
+#clearBtn a {
+	text-decoration: none;
+	color: #fff;
+}
